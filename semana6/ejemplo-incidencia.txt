@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 198
+ETag: W/"c6-WgDgOHvP2hNA2enDJxbu6BWsDhc"
+Date: Sun, 05 Jul 2026 19:20:02 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Intervención vías terciarias",
+  "descripcion": "La comunidad reporta que la intervención presetna fallos que han empeorado el estado anterior de la vía."
+}

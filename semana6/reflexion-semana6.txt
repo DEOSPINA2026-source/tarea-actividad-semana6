@@ -1,0 +1,11 @@
+¿Por qué es importante que las plataformas tecnológicas
+ puedan recibir reportes o información enviada por los 
+ ciudadanos de forma estructurada?
+RESPUESTA:
+La importancia de recibir información estructurada radica
+en que democratiza la eficiencia. No basta con escuchar al 
+ciudadano; es necesario que la tecnología pueda "digerir"
+y que además sea entendible y que esa voz sea convertida en
+una solución tangible.
+Una plataforma que recibe datos estructurados es una herramienta
+de gestión; una que recibe datos caóticos es una página de desinformación.

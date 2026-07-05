@@ -1,0 +1,7 @@
+POST http://localhost:3000/incidencia
+Content-type: application/json
+
+{
+  "tipo": "Intervención vías terciarias",
+  "descripcion": "La comunidad reporta que la intervención presetna fallos que han empeorado el estado anterior de la vía."
+}

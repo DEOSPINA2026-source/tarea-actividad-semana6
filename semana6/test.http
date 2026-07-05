@@ -1,0 +1,7 @@
+POST http://localhost:3000/registro
+Content-type: application/jsonPOST http://localhost:3000/registro
+
+{
+    "nombre": "maría",
+    "mensaje": "hola comunidad"
+}
